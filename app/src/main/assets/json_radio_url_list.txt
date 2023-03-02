@@ -1,0 +1,8 @@
+[{"name":"World Music Radio","url":"http://stream.wlmm.dk:8010/wmr"},
+{"name":"88.5 FM Southern California","url":"https://stream1.885fm.org/1"},
+{"name":"1Mix Radio - Trance","url":"http://fr1.1mix.co.uk:8060/128"},
+{"name":"rbb Radio Eins","url":"https://www.radioeins.de/livemp3_s"},
+{"name":"BBC Radio 1","url":"https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one"},
+{"name":"NRK P13","url":"http://nrk-mms-live.telenorcdn.net/nrk_radio_p13_mp3_l"},
+{"name":"Radio Caroline","url":"http://sc8.radiocaroline.net:8000/"}
+]

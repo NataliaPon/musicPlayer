@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/radio_menu"
+        android:icon="@drawable/ic_audio_radio"
+        android:title="@string/radio_menu_title"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/library_menu"
+        android:icon="@drawable/ic_audio_library_music"
+        android:title="@string/library_menu_title"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/record_menu"
+        android:icon="@drawable/ic_audio_mic"
+        android:title="@string/record_menu_title"
+        app:showAsAction="always" />
+</menu>

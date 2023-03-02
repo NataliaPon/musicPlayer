@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="radio_menu_title">Radio</string>
+    <string name="library_menu_title">Library</string>
+    <string name="record_menu_title">Record</string>
+
+
+    <array name="radio_urls">
+        <item name="World Music Radio">http://stream.wlmm.dk:8010/wmr</item>
+        <item name="88.5 FM Southern California">https://stream1.885fm.org/1</item>
+        <item name="1Mix Radio - Trance">http://fr1.1mix.co.uk:8060/128</item>
+        <item name="rbb Radio Eins">https://www.radioeins.de/livemp3_s</item>
+        <item name="BBC Radio 1">https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one</item>
+        <item name="NRK P13">http://nrk-mms-live.telenorcdn.net/nrk_radio_p13_mp3_l</item>
+        <item name="Radio Caroline">http://sc8.radiocaroline.net:8000/</item>
+    </array>
+
+</resources>
